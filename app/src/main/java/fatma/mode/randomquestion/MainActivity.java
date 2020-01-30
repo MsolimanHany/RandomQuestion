@@ -20,7 +20,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
 Button random ;
 TextView answer;
-    ArrayList<String> arrayList;
+    ArrayList<String> arrayList,mod;
     ArrayList<Integer> arrayList2;
 
     @Override
